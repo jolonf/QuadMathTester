@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QuadMath",
+        "repositoryURL": "https://github.com/jolonf/QuadMath.git",
+        "state": {
+          "branch": null,
+          "revision": "b55fe942dd4113b9b19a0b19773af90f61d2d12c",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
